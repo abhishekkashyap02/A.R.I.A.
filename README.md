@@ -4,7 +4,7 @@
 
 <br/>
 
-# 🔴 &nbsp; A &nbsp;·&nbsp; R &nbsp;·&nbsp; I &nbsp;·&nbsp; A
+# 🔴 &nbsp; A &nbsp;·&nbsp; R &nbsp;·&nbsp; I &nbsp;·&nbsp; A &nbsp; 🔴
 
 ### `Artificial · Responsive · Intelligent · Assistant`
 
